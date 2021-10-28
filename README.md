@@ -1,6 +1,6 @@
 # Programming Fonts
 
-> Color theme is Github Dark (Visual Studio Code)
+> Color theme is One Dark Pro (Visual Studio Code)
 
 ### Anonymous Pro
 ![Anonymous Pro](https://raw.githubusercontent.com/cancng/fonts/master/img/AnonymousPro.png)
